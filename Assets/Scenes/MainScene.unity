@@ -789,6 +789,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Zadanie02
       objectReference: {fileID: 0}
+    - target: {fileID: 8333265481043446623, guid: bcb0bad3cfdc7fc4a94b6463b0a6e1a5, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8333265482109284449, guid: bcb0bad3cfdc7fc4a94b6463b0a6e1a5, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
